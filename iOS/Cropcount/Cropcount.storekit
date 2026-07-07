@@ -1,0 +1,27 @@
+{
+  "identifier": "0",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "prod1",
+      "localizations": [
+        {
+          "description": "Seasonal yield-value totals and cost-savings report",
+          "displayName": "Cropcount Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "cropcount.pro",
+      "referenceName": "Cropcount Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
